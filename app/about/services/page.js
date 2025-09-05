@@ -1,8 +1,7 @@
-'use client'
 import React from 'react'
 
 export default function page() {
   return (
-    <div className='text-green-600'>Contact</div>
+    <div>service</div>
   )
 }
